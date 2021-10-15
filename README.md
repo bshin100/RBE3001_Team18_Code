@@ -1,0 +1,1 @@
+The codebase for Team 18 during RBE 3001: Unified Robotics III at Worcester Polytechnic Institute. The MATLAB code is the culmination of five labs and seven weeks of hard work to properly control a 3-DOF robotic arm to manipulate colored balls.
